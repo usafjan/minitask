@@ -17,3 +17,4 @@ Class
 MessageDBHandle :  responsible for ADO.net Operations
 SQL :
 Sql sercipt have one table message and three store procedure for saving record , select and select count.
+thanks
